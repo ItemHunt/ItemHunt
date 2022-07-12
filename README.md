@@ -10,7 +10,7 @@ Well, aside from the name ItemHunt, I also go by the name of LittleTrick sometim
 :mag_right: I’m looking to collaborate on  any projects that is within my ability. <br>
 📫 You can reach me via my Email or Twitter account which you can see on my profile <br>
 
-<h2 align="center"> Projects I made so far </h2>
+<h2 align="center"> Nice little projects I made so far </h2>
 
 <div align="center">
 
