@@ -1,6 +1,6 @@
 <h2 align= "center"> Hello, I'm ItemHunt! </h2>
 
-Passionate generalist beginner programmer with experience in HTML, CSS, C++, Python Linux, and Bash. My end goal is to become a cybersecurity expert, everything not related to cybersecurity was studied just for fun and some other purposes. 
+Well, aside from the name ItemHunt, I also go by the name of LittleTrick sometimes. I go with some other name if both ItemHunt and LittleTrick was unavailable. Anyways, passionate generalist beginner programmer here with experience in HTML, CSS, C++, Python Linux, and Bash. My end goal is to become a cybersecurity expert, everything not related to cybersecurity was studied just for fun and some other purposes. 
 
 <h2 align="center"> About me </h2>
 
