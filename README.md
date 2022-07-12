@@ -17,7 +17,6 @@ Passionate generalist beginner programmer with experience in HTML, CSS, C++, Pyt
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Bash-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=C-plus-plus-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=HTML-and-CSS-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Electricity-Consumption-Feedback-Program)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
