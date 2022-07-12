@@ -1,10 +1,10 @@
 <h2 align="center"> About Me </h2>
 
-👋 Hi, I’m @ItemHunt, a beginner self-taught beginner programmer
-👀 I’m interested in Linux, development, cybersecurity, programming and other tech stuff
-🌱 I’m currently learning Networking, CSS, and Python
-💞️ I’m looking to collaborate on  any projects that is within my ability.
-📫 You can reach me via my email or twitter account
+👋 Hi, I’m @ItemHunt, a beginner self-taught beginner programmer <br>
+👀 I’m interested in Linux, development, cybersecurity, programming and other tech stuff <br>
+🌱 I’m currently learning Networking, CSS, and Python <br>
+💞️ I’m looking to collaborate on  any projects that is within my ability. <br>
+📫 You can reach me via my email or twitter account <br>
 
 <div align="center">
 
