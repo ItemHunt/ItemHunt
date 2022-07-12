@@ -2,13 +2,24 @@
 
 Passionate generalist beginner programmer with experience in HTML, CSS, C++, Python Linux, and Bash. My end goal is to become a cybersecurity expert, everything not related to cybersecurity was studied just for fun and some other purposes. 
 
-<h2 align="center"> About Me </h2>
+<h2 align="center"> About me </h2>
 
 👋 Hi, I’m @ItemHunt, a self-taught beginner programmer <br>
 👀 I’m interested in Linux, development, cybersecurity, programming and other tech stuff <br>
 🌱 I’m currently learning Networking, CSS, and Python <br>
 :mag_right: I’m looking to collaborate on  any projects that is within my ability. <br>
 📫 You can reach me via my Email or Twitter account which you can see on my profile <br>
+
+<h2 align="center"> Projects I made so far </h2>
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Bash-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=C-plus-plus-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=HTML-and-CSS-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Electricity-Consumption-Feedback-Program)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div align="center">
 
@@ -27,5 +38,5 @@ ItemHunt/ItemHunt is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 Storage
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&repo=Bash-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
+
 --->
