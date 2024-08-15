@@ -1,16 +1,12 @@
-<h2 align= "center"> Hello, I'm ItemHunt! </h2>
+<<h2 align="center"> About me </h2>
 
-Passionate generalist beginner programmer here with experience in HTML, CSS, C++, Python Linux, and Bash. My end goal is to become a cybersecurity expert, everything not related to cybersecurity was studied just for fun and some other purposes. 
-
-<h2 align="center"> About me </h2>
-
-👋 Hi, I’m @ItemHunt, a self-taught beginner programmer <br>
-👀 I’m interested in Linux, development, cybersecurity, programming and other tech stuff <br>
-🌱 I’m currently learning Networking, CSS, and Python <br>
+👋 Hi, I’m @ItemHunt, a self-taught programmer <br>
+👀 I’m interested Web development, Linux, and competitive programming <br>
+🌱 I’m currently learning how to become a full stack developer <br>
 :mag_right: I’m looking to collaborate on  any projects that is within my ability. <br>
-📫 You can reach me via my Email or Twitter account which you can see on my profile <br>
+📫 You can reach me via email r74b5pu3g@mozmail.com <br>
 
-<h2 align="center"> Nice little projects I made so far </h2>
+<h2 align="center"> Placeholder text </h2>
 
 <div align="center">
 
