@@ -1,4 +1,4 @@
-<<h2 align="center"> About me </h2>
+<h2 align="center"> About me </h2>
 
 👋 Hi, I’m @ItemHunt, a self-taught programmer <br>
 👀 I’m interested Web development, Linux, and competitive programming <br>
