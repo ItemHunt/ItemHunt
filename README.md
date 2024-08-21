@@ -11,9 +11,6 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Bash-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=C-plus-plus-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=HTML-and-CSS-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItemHunt&theme=radical&repo=Python-Cheatsheet)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
